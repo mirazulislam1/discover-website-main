@@ -8,3 +8,12 @@
     font-size: 65px;
     font-weight: 600;
 }
+@media only screen and (max-width:768px) {
+    .course-banner img{
+        width:100%;
+    }
+    .register-info{
+        flex-direction: column;
+    }
+    
+}
